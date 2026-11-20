@@ -1,0 +1,2341 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "": {},
+    "%@: due in about a week": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: шамамен бір аптадан кейін ауыстыру"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: замена примерно через неделю"
+          }
+        }
+      }
+    },
+    "%@: due today": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: ауыстыру мерзімі бүгін"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: срок замены сегодня"
+          }
+        }
+      }
+    },
+    "%@: plan a replacement": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: ауыстыруды жоспарлаңыз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: запланируйте замену"
+          }
+        }
+      }
+    },
+    "%@: replace now": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: ауыстыру керек"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@: пора менять"
+          }
+        }
+      }
+    },
+    "%lld": {},
+    "%lld days left": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld day left"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld days left"
+                }
+              }
+            }
+          }
+        },
+        "kk": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld күн қалды"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld күн қалды"
+                }
+              }
+            }
+          }
+        },
+        "ru": {
+          "variations": {
+            "plural": {
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld дня до замены"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld дней до замены"
+                }
+              },
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld день до замены"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld дня до замены"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld km": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld км"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld км"
+          }
+        }
+      }
+    },
+    "%lld km left": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld км қалды"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Осталось %lld км"
+          }
+        }
+      }
+    },
+    "%lld%%": {},
+    "%lld%% of its life is left.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ресурстың %lld%% қалды."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Осталось %lld%% ресурса."
+          }
+        }
+      }
+    },
+    "ACCOUNT": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "АККАУНТ"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "АККАУНТ"
+          }
+        }
+      }
+    },
+    "About": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қолданба туралы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "О приложении"
+          }
+        }
+      }
+    },
+    "Add": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қосу"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить"
+          }
+        }
+      }
+    },
+    "Add car": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Көлікті қосу"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить автомобиль"
+          }
+        }
+      }
+    },
+    "Add your car": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Көлігіңізді қосыңыз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавьте автомобиль"
+          }
+        }
+      }
+    },
+    "Aktau": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ақтау"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Актау"
+          }
+        }
+      }
+    },
+    "Aktobe": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ақтөбе"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Актобе"
+          }
+        }
+      }
+    },
+    "All good": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Бәрі дұрыс"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Всё в порядке"
+          }
+        }
+      }
+    },
+    "Almaty": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Алматы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Алматы"
+          }
+        }
+      }
+    },
+    "Arrives in 5 seconds. Close the app to see it": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5 секундтан кейін келеді. Көру үшін қолданбаны жабыңыз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Придёт через 5 секунд. Сверните приложение, чтобы увидеть"
+          }
+        }
+      }
+    },
+    "Astana": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Астана"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Астана"
+          }
+        }
+      }
+    },
+    "At your usual mileage it will need replacing in about 7 days.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Әдеттегі жүрісіңізбен шамамен 7 күннен кейін ауыстыру қажет болады."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "При вашем обычном пробеге замена понадобится примерно через 7 дней."
+          }
+        }
+      }
+    },
+    "Atyrau": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Атырау"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Атырау"
+          }
+        }
+      }
+    },
+    "Brake pads": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тежегіш қалыптары"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тормозные колодки"
+          }
+        }
+      }
+    },
+    "Brand": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Марка"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Марка"
+          }
+        }
+      }
+    },
+    "By your usual mileage it has reached its limit. Update the odometer to check.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Әдеттегі жүрісіңіз бойынша ресурс таусылды. Тексеру үшін жүрісті жаңартыңыз."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "По вашему обычному пробегу ресурс выработан. Обновите пробег, чтобы проверить."
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Бас тарту"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отмена"
+          }
+        }
+      }
+    },
+    "Can’t be more than the current odometer.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қазіргі жүрістен көп болмауы керек."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не может быть больше текущего пробега."
+          }
+        }
+      }
+    },
+    "Check the forecast in the app and plan your tire change.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қолданбадағы болжамды тексеріп, шина ауыстыруды жоспарлаңыз."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Проверьте прогноз в приложении и запланируйте замену шин."
+          }
+        }
+      }
+    },
+    "Check your email": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Поштаңызды тексеріңіз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Проверьте почту"
+          }
+        }
+      }
+    },
+    "Checking…": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тексерілуде…"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Проверка…"
+          }
+        }
+      }
+    },
+    "Close": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жабу"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Закрыть"
+          }
+        }
+      }
+    },
+    "Confirm and sign in": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Растау және кіру"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Подтвердить и войти"
+          }
+        }
+      }
+    },
+    "Coolant": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Антифриз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Антифриз"
+          }
+        }
+      }
+    },
+    "Delete part": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Бөлшекті жою"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить деталь"
+          }
+        }
+      }
+    },
+    "Demo history added": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Демо тарихы қосылды"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Демо-история добавлена"
+          }
+        }
+      }
+    },
+    "Demo: mileage history": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Демо: жүріс тарихы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Демо: история пробега"
+          }
+        }
+      }
+    },
+    "Done": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дайын"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Готово"
+          }
+        }
+      }
+    },
+    "Driver": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жүргізуші"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Водитель"
+          }
+        }
+      }
+    },
+    "Edit car": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Көлікті өзгерту"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изменить автомобиль"
+          }
+        }
+      }
+    },
+    "Edit name and mileage": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Атауы мен жүрісін өзгерту"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изменить название и пробег"
+          }
+        }
+      }
+    },
+    "Email address": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Электрондық пошта"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Электронная почта"
+          }
+        }
+      }
+    },
+    "Engine oil": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мотор майы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Моторное масло"
+          }
+        }
+      }
+    },
+    "Enter code": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Кодты енгізіңіз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Введите код"
+          }
+        }
+      }
+    },
+    "Enter the 8-digit code.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "8 таңбалы кодты енгізіңіз."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Введите 8-значный код."
+          }
+        }
+      }
+    },
+    "Filters": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сүзгілер"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Фильтры"
+          }
+        }
+      }
+    },
+    "Garage": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Гараж"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Гараж"
+          }
+        }
+      }
+    },
+    "Good": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қалыпты"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В норме"
+          }
+        }
+      }
+    },
+    "I switched to summer tires": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жазғы шинаға ауыстырдым"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Я поставил летние шины"
+          }
+        }
+      }
+    },
+    "I switched to winter tires": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қысқы шинаға ауыстырдым"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Я поставил зимние шины"
+          }
+        }
+      }
+    },
+    "It is getting cold. Book a tire change before the first ice.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Күн суытып келеді. Алғашқы көктайғаққа дейін шина ауыстыруға жазылыңыз."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Холодает. Запишитесь на шиномонтаж до первого гололёда."
+          }
+        }
+      }
+    },
+    "It is warm enough. Winter tires wear out fast on warm roads.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Күн жылынды. Қысқы шина жылы жолда тез тозады."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Уже тепло. Зимние шины быстро изнашиваются на тёплом асфальте."
+          }
+        }
+      }
+    },
+    "Karaganda": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қарағанды"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Караганда"
+          }
+        }
+      }
+    },
+    "Kaskelen": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қаскелең"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Каскелен"
+          }
+        }
+      }
+    },
+    "Keep wear percentages accurate: enter your current mileage.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тозу есебі дәл болуы үшін қазіргі жүрісті енгізіңіз."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чтобы расчёт износа был точным, введите текущий пробег."
+          }
+        }
+      }
+    },
+    "Know your car’s wear before it fails.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Бөлшек істен шықпай тұрып, оның тозуын біліңіз."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Узнайте об износе раньше, чем деталь выйдет из строя."
+          }
+        }
+      }
+    },
+    "Kostanay": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қостанай"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Костанай"
+          }
+        }
+      }
+    },
+    "Kyzylorda": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қызылорда"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Кызылорда"
+          }
+        }
+      }
+    },
+    "Language": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тіл"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Язык"
+          }
+        }
+      }
+    },
+    "Last replaced at, km": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Соңғы ауыстыру жүрісі, км"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Последняя замена на, км"
+          }
+        }
+      }
+    },
+    "Last replaced on": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ауыстырылған күні"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата замены"
+          }
+        }
+      }
+    },
+    "Last replaced: %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Соңғы ауыстыру: %@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Последняя замена: %@"
+          }
+        }
+      }
+    },
+    "Mileage, km": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жүрісі, км"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пробег, км"
+          }
+        }
+      }
+    },
+    "Model": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Модель"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Модель"
+          }
+        }
+      }
+    },
+    "More": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тағы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ещё"
+          }
+        }
+      }
+    },
+    "My car": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Менің көлігім"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мой автомобиль"
+          }
+        }
+      }
+    },
+    "My garage": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Менің гаражым"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мой гараж"
+          }
+        }
+      }
+    },
+    "Name": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Атауы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Название"
+          }
+        }
+      }
+    },
+    "New part": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жаңа бөлшек"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Новая деталь"
+          }
+        }
+      }
+    },
+    "Next 7 days in %@: average %@ °C.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Алдағы 7 күн, %@: орташа %@ °C."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ближайшие 7 дней, %@: в среднем %@ °C."
+          }
+        }
+      }
+    },
+    "Nickname (optional)": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Атауы (міндетті емес)"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Название (необязательно)"
+          }
+        }
+      }
+    },
+    "No fresh forecast, using the calendar: winter season is mid-October to end of March.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жаңа болжам жоқ, күнтізбе бойынша: қысқы маусым қазанның ортасынан наурыздың соңына дейін."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Свежего прогноза нет, считаем по календарю: зимний сезон с середины октября до конца марта."
+          }
+        }
+      }
+    },
+    "No parts": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Бөлшек жоқ"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нет деталей"
+          }
+        }
+      }
+    },
+    "No parts yet. Tap + to add one.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Әзірге бөлшек жоқ. Қосу үшін + басыңыз."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Деталей пока нет. Нажмите +, чтобы добавить."
+          }
+        }
+      }
+    },
+    "No passwords. Just a code sent to your email.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Құпиясөз жоқ. Тек поштаңызға келетін код."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Без паролей. Только код на вашу почту."
+          }
+        }
+      }
+    },
+    "Odometer": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жүрісі"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пробег"
+          }
+        }
+      }
+    },
+    "Odometer, km": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жүрісі, км"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пробег, км"
+          }
+        }
+      }
+    },
+    "Only %lld%% of its life is left. Time to replace it.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ресурстың тек %lld%% қалды. Ауыстыратын уақыт."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Осталось всего %lld%% ресурса. Пора менять."
+          }
+        }
+      }
+    },
+    "Oral": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Орал"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Уральск"
+          }
+        }
+      }
+    },
+    "Oskemen": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Өскемен"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Усть-Каменогорск"
+          }
+        }
+      }
+    },
+    "Overdue by %lld km": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld км асып кетті"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Просрочено на %lld км"
+          }
+        }
+      }
+    },
+    "PARTS": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "БӨЛШЕКТЕР"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ДЕТАЛИ"
+          }
+        }
+      }
+    },
+    "Part": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Бөлшек"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Деталь"
+          }
+        }
+      }
+    },
+    "Pavlodar": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Павлодар"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Павлодар"
+          }
+        }
+      }
+    },
+    "Petropavl": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Петропавл"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Петропавловск"
+          }
+        }
+      }
+    },
+    "Pick brand first": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Алдымен марка"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сначала марку"
+          }
+        }
+      }
+    },
+    "Plan service": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жақында ауыстыру"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Скоро замена"
+          }
+        }
+      }
+    },
+    "Quick add": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жылдам қосу"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Быстрое добавление"
+          }
+        }
+      }
+    },
+    "Replace every, km": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ауыстыру аралығы, км"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Менять каждые, км"
+          }
+        }
+      }
+    },
+    "Replaced": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ауыстырдым"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Заменил"
+          }
+        }
+      }
+    },
+    "Replaced at, km": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ауыстырылған жүрісі, км"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Замена на, км"
+          }
+        }
+      }
+    },
+    "Resend code": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Кодты қайта жіберу"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отправить код повторно"
+          }
+        }
+      }
+    },
+    "Rule: below +7 °C means winter tires": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ереже: +7 °C-тан төмен болса, қысқы шина"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Правило: ниже +7 °C нужны зимние шины"
+          }
+        }
+      }
+    },
+    "SEASON": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "МАУСЫМ"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "СЕЗОН"
+          }
+        }
+      }
+    },
+    "Same as phone": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Телефондағыдай"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Как в телефоне"
+          }
+        }
+      }
+    },
+    "Sample 30-day log (45 km a day) to show forecasts": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Болжамды көрсету үшін 30 күндік үлгі журнал (күніне 45 км)"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пример журнала за 30 дней (45 км в день) для показа прогноза"
+          }
+        }
+      }
+    },
+    "Save": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сақтау"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сохранить"
+          }
+        }
+      }
+    },
+    "Select brand": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Марканы таңдаңыз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выберите марку"
+          }
+        }
+      }
+    },
+    "Select model": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Модельді таңдаңыз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выберите модель"
+          }
+        }
+      }
+    },
+    "Semey": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Семей"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Семей"
+          }
+        }
+      }
+    },
+    "Send code": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Код жіберу"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отправить код"
+          }
+        }
+      }
+    },
+    "Sending…": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жіберілуде…"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отправка…"
+          }
+        }
+      }
+    },
+    "Service needed": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ауыстыру қажет"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нужна замена"
+          }
+        }
+      }
+    },
+    "Shymkent": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Шымкент"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Шымкент"
+          }
+        }
+      }
+    },
+    "Sign out": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Шығу"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выйти"
+          }
+        }
+      }
+    },
+    "Snow expected on %@.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қар күтіледі: %@."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Снег ожидается: %@."
+          }
+        }
+      }
+    },
+    "Soon": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жақында"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Скоро"
+          }
+        }
+      }
+    },
+    "Spark plugs": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Оталдыру шамдары"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Свечи зажигания"
+          }
+        }
+      }
+    },
+    "Summer": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жазғы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Летние"
+          }
+        }
+      }
+    },
+    "Summer tire season": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жазғы шина маусымы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сезон летних шин"
+          }
+        }
+      }
+    },
+    "Summer tires: all good": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жазғы шина: бәрі дұрыс"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Летние шины: всё в порядке"
+          }
+        }
+      }
+    },
+    "Taldykorgan": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Талдықорған"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Талдыкорган"
+          }
+        }
+      }
+    },
+    "Taraz": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тараз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тараз"
+          }
+        }
+      }
+    },
+    "Test notification": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сынақ хабарландыруы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тестовое уведомление"
+          }
+        }
+      }
+    },
+    "Time for summer tires": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жазғы шинаға ауысатын уақыт"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пора ставить летние шины"
+          }
+        }
+      }
+    },
+    "Time for winter tires": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қысқы шинаға ауысатын уақыт"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пора ставить зимние шины"
+          }
+        }
+      }
+    },
+    "Timing belt": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ГРМ белдігі"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ремень ГРМ"
+          }
+        }
+      }
+    },
+    "Transmission fluid": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Беріліс қорабының майы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Масло в коробке передач"
+          }
+        }
+      }
+    },
+    "Turkistan": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Түркістан"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Туркестан"
+          }
+        }
+      }
+    },
+    "Update mileage": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жүрісті жаңарту"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Обновить пробег"
+          }
+        }
+      }
+    },
+    "Update your odometer": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жүрісті жаңартыңыз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Обновите пробег"
+          }
+        }
+      }
+    },
+    "Urgent": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Шұғыл"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Срочно"
+          }
+        }
+      }
+    },
+    "Use “%@”": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "«%@» қолдану"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Использовать «%@»"
+          }
+        }
+      }
+    },
+    "Version %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нұсқа %@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Версия %@"
+          }
+        }
+      }
+    },
+    "We sent an 8-digit code to %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ мекенжайына 8 таңбалы код жібердік"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мы отправили 8-значный код на %@"
+          }
+        }
+      }
+    },
+    "Welcome back": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қайта қош келдіңіз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "С возвращением"
+          }
+        }
+      }
+    },
+    "Welcome to Auto Care Tracker": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto Care Tracker қолданбасына қош келдіңіз"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добро пожаловать в Auto Care Tracker"
+          }
+        }
+      }
+    },
+    "What to track": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Нені бақылау керек"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Что отслеживать"
+          }
+        }
+      }
+    },
+    "When was each part last replaced? Leave km empty if it was just replaced.": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Әр бөлшек соңғы рет қашан ауыстырылды? Жаңа ғана ауыстырылса, км өрісін бос қалдырыңыз."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Когда каждую деталь меняли в последний раз? Оставьте км пустым, если её только что заменили."
+          }
+        }
+      }
+    },
+    "Which tires are on now?": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қазір қандай шина тұр?"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Какие шины стоят сейчас?"
+          }
+        }
+      }
+    },
+    "Winter": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қысқы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Зимние"
+          }
+        }
+      }
+    },
+    "Winter tire season": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қысқы шина маусымы"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сезон зимних шин"
+          }
+        }
+      }
+    },
+    "Winter tires: all good": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Қысқы шина: бәрі дұрыс"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Зимние шины: всё в порядке"
+          }
+        }
+      }
+    },
+    "Year": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Жыл"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Год"
+          }
+        }
+      }
+    },
+    "e.g. Toyota": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "мыс., Toyota"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "напр., Toyota"
+          }
+        }
+      }
+    },
+    "km": {
+      "extractionState": "manual",
+      "localizations": {
+        "kk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "км"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "км"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
